@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>albumurl</key>
+		<string>pic1.png</string>
+		<key>maintitleContent</key>
+		<string>李敏镐首尔电视节人气奖投票活动</string>
+		<key>deadlineContent</key>
+		<string>2014.07.14   20:00至22:00</string>
+		<key>attentionCount</key>
+		<string>3325811</string>
+		<key>keywords</key>
+		<string>李敏镐 官方活动 投票 线上</string>
+		<key>smalltitleContent</key>
+		<string>大长腿我的最爱</string>
+		<key>TVStation</key>
+		<string>首尔电视台</string>
+		<key>isOnline</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>albumurl</key>
+		<string>pic2.png</string>
+		<key>maintitleContent</key>
+		<string>李宇春《我不知会遇见你》全球首发</string>
+		<key>deadlineContent</key>
+		<string>2014.07.14   20:00至22:00</string>
+		<key>attentionCount</key>
+		<string>3325811</string>
+		<key>keywords</key>
+		<string>李敏镐 官方活动 投票 线上</string>
+		<key>smalltitleContent</key>
+		<string>玉米后院的小番茄</string>
+		<key>TVStation</key>
+		<string>首尔电视台</string>
+		<key>isOnline</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>albumurl</key>
+		<string>pic3.png</string>
+		<key>maintitleContent</key>
+		<string>EXO-M中国首站美丽说签售会</string>
+		<key>deadlineContent</key>
+		<string>2014.07.14   20:00至22:00</string>
+		<key>attentionCount</key>
+		<string>3325811</string>
+		<key>keywords</key>
+		<string>李敏镐 官方活动 投票 线上</string>
+		<key>smalltitleContent</key>
+		<string>玉米后院的小番茄</string>
+		<key>TVStation</key>
+		<string>首尔电视台</string>
+		<key>isOnline</key>
+		<false/>
+	</dict>
+</array>
+</plist>

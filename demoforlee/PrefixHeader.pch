@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  demoforlee
+//
+//  Created by jinglijun on 14/10/30.
+//  Copyright (c) 2014年 jinglijun. All rights reserved.
+//
+
+#ifndef demoforlee_PrefixHeader_pch
+#define demoforlee_PrefixHeader_pch
+
+
+#define DDLog(xx, ...)  NSLog(@"%s(%d): " xx, __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+    #import <Foundation/Foundation.h>
+    #import <CoreGraphics/CoreGraphics.h>
+    #import "GlobalTool.h"
+    #import <UIKit/UIKit.h>
+#endif
